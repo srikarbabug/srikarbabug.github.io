@@ -1,25 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: great minds look alike
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior undergraduate student, majoring in Electrical Engineering (minor in Artificial Intelligence), at the Indian Institute of Technology Madras (IIT Madras). My academic and research pursuits lie in the amalgamation of reinforcement learning (RL), controls, and robotics. I take special interest in the nuances of multi-agent systems, offline RL, dynamics of human-robot interaction, and safety and robustness in control systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Some of my previous work includes researching offline RL for informative path planning with [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/), optimal dynamic pricing using RL in competitive markets with [Prof. Rachel Kalaimani](https://www.ee.iitm.ac.in/rachel/), and identifying causal relations between robot actions and human perception with [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). Currently, I am continuing my collaboration with Prof. Sycara, where I am exploring multi-agent RL from a game-theoretical perspective. For a comprehensive overview of my research background, please refer to my [CV](/assets/img/prof_pic_color.png).
