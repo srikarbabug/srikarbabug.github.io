@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /assets/pdf/CV.pdf
+newtab: true
+permalink: CV.pdf
 title: CV
 nav: true
 nav_order: 4
-newtab: true
 ---

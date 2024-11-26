@@ -9,7 +9,7 @@ last_name:
 email: ee21b138@smail.iitm.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/omori.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://srikarbabug.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
