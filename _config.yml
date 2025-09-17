@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Srikar Babu Gadipudi
 middle_name:
 last_name:
-email: ee21b138@smail.iitm.ac.in
+email: srikarbabu@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 icon: omori.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
