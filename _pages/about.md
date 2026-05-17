@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: my_prof_pic.png
+  image: false
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in EECS at the University of California, Berkeley, where I am being advised by [Prof. Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). I completed my bachelor's in Electrical Engineering (with a minor in Artificial Intelligence) at the Indian Institute of Technology Madras. My research interests lie at the intersection of reinforcement learning (RL) and control theory. I am particularly interested in multi-agent systems, offline RL, and safety and robustness in control.
+Hello! I am a PhD student in EECS at UC Berkeley, advised by [Prof. Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/) and [Prof. Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). I am interested in reinforcement learning and its applications to real-world systems, from multi-agent robotics to LLMs, with a focus on safety, scalability, and offline learning.
 
-My prior research spans offline RL for informative path planning with [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/), optimal dynamic pricing using RL in competitive markets with [Prof. Rachel Kalaimani](https://www.ee.iitm.ac.in/rachel/), and identifying causal relations between robot actions and human perception with [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). For a comprehensive overview of my research background, please refer to my [CV](/assets/pdf/CV.pdf). 
+Previously, I completed my Bachelor's at IIT Madras. During this time, I was grateful to work with [Prof. Katia Sycara](https://www.cs.cmu.edu/~sycara/), [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/), and [Prof. Rachel Kalaimani](https://www.ee.iitm.ac.in/rachel/).
