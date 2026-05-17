@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled ["Reinforcement Learning for Dynamic Pricing under Competition for Perishable Products"](https://ieeexplore.ieee.org/document/10744760) won the **Best Paper Award** at the 28th International Conference on System Theory, Control and Computing (ICSTCC).
+Our [paper](https://ieeexplore.ieee.org/document/10744760) on reinforcement learning for dynamic pricing under competition won the **Best Student Paper Award** at ICSTCC.

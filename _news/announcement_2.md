@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to spend the summer at Carnegie Mellon University as a part of the [Robotics Institute Summer Scholars Program (RISS)](https://riss.ri.cmu.edu/) working with [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/) on offline reinforcement learning for informative path planning.
+Excited to spend the summer at CMU as a part of the [Robotics Institute Summer Scholars Program (RISS)](https://riss.ri.cmu.edu/) working with [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/) on offline RL for informative path planning.
