@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Hello! I am a PhD student in EECS at UC Berkeley, advised by [Prof. Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/) and [Prof. Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). I am interested in reinforcement learning and its applications to real-world systems, from multi-agent robotics to LLMs, with a focus on safety, scalability and offline learning.
 
-Previously, I completed my Bachelor's at IIT Madras. During this time, I am grateful to have worked with [Prof. Katia Sycara](https://www.cs.cmu.edu/~sycara/), [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and [Prof. Rachel Kalaimani](https://www.ee.iitm.ac.in/rachel/).
+Previously, I completed my bachelor's at IIT Madras. During this time, I am grateful to have worked with [Prof. Katia Sycara](https://www.cs.cmu.edu/~sycara/), [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and [Prof. Rachel Kalaimani](https://www.ee.iitm.ac.in/rachel/).
 
 <div class="profile-links" style="text-align: center; margin: 1.5rem 0;">
   <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}">CV</a>
