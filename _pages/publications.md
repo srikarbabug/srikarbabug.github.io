@@ -19,5 +19,3 @@ nav_order: 2
 
 </div>
 
-Paper titled "**ORCHID: Offline RL for Control of HVAC in Buildings using Historical and Low-Fidelity Simulation Data**" by Richa Verma, Srikar Babu Gadipudi, Srinarayana Nagarathinam, Harshad Khadilkar, accepted at the *4th International Conference on AI-ML Systems* (In press).
-
