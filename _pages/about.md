@@ -27,6 +27,4 @@ Previously, I completed my bachelor's at IIT Madras. During this time, I am grat
   <a href="mailto:{{ site.email | encode_email }}">Email</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/{{ site.github_username }}">GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
 </div>
