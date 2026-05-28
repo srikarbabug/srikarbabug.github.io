@@ -28,5 +28,5 @@ Previously, I completed my bachelor's at IIT Madras. During this time, I am grat
   &nbsp;|&nbsp;
   <a href="https://github.com/{{ site.github_username }}">GitHub</a>
   &nbsp;|&nbsp;
-  <a href="https://linkedin.com/{{ site.linkedin_username }}">LinkedIn</a>
+  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
 </div>
