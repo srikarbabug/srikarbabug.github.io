@@ -20,11 +20,11 @@ Hello! I am a PhD student in EECS at UC Berkeley, advised by [Prof. Claire Tomli
 Previously, I completed my bachelor's at IIT Madras. During this time, I am grateful to have worked with [Prof. Katia Sycara](https://www.cs.cmu.edu/~sycara/), [Prof. Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) and [Prof. Rachel Kalaimani](https://www.ee.iitm.ac.in/rachel/).
 
 <div class="profile-links" style="text-align: center; margin: 1.5rem 0;">
-  <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}">CV</a>
-  &nbsp;|&nbsp;
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">Google Scholar</a>
   &nbsp;|&nbsp;
   <a href="mailto:{{ site.email | encode_email }}">Email</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/srikar-babu-gadipudi-985b15250/">LinkedIn</a>
 </div>
