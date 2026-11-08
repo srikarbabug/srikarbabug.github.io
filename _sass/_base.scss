@@ -1308,3 +1308,24 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// LaTeX-style font (Computer Modern), falling back to Times New Roman
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar,
+.btn,
+.badge,
+button,
+input,
+select,
+textarea,
+d-article,
+d-title,
+d-byline {
+  font-family: "CMU Serif", "Latin Modern Roman", "Times New Roman", Times, serif;
+}
