@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-11-17 07:59:00-0400
+inline: true
+related_posts: false
+---
+
+Our [work](https://arxiv.org/abs/2611.19190) "Distilling Safety Filters for Filter-free Multi-agent RL" is on arXiv.
