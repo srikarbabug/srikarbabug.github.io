@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [paper](https://arxiv.org/abs/2610.30446) Strategic Arbitrage in Electricity Markets: A Multi-agent Policy-Optimization Framework has been accepted to CDC 2026.
+Our [paper](https://arxiv.org/abs/2610.30446) "Strategic Arbitrage in Electricity Markets: A Multi-agent Policy-Optimization Framework" has been accepted to CDC 2026.
