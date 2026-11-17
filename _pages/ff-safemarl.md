@@ -33,7 +33,7 @@ _styles: >
 <div class="sm-affil">University of California, Berkeley</div>
 
 <div class="sm-links">
-  <span title="Coming soon">Paper</span>
+  <a href="https://arxiv.org/abs/2611.19190">Paper</a>
   <a href="https://github.com/srikarbabug/ff-safemarl">Code</a>
 </div>
 
