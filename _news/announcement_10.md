@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [work](https://arxiv.org/abs/2611.19190) "Distilling Safety Filters for Filter-free Multi-agent RL" is on arXiv.
+Our [work](https://srikarbabug.github.io/ff-safemarl/) "Distilling Safety Filters for Filter-free Multi-agent RL" is on arXiv.
